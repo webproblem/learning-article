@@ -6,6 +6,9 @@
 
 * [JS正则表达式](https://juejin.im/post/5965943ff265da6c30653879)
 
+* [JS浮点数计算](https://juejin.im/post/5a6fce10f265da3e261c3c71)
+
+* [前端跨域](https://qiutc.me/post/cross-domain-collections.html)
 
 
 ## vue
@@ -73,6 +76,15 @@
 
 * [小程序文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 
+* [小程序社区](http://www.wxapp-union.com/)
+
+
+
+## 其他
+
+* [MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web)
+
+* [Awesomes](https://www.awesomes.cn/)
 
 
 ## 技术博客
@@ -91,8 +103,14 @@
 
 * [腾讯 IMWEB 团队](http://imweb.github.io/)
 
+* [W3C 中国](http://www.chinaw3c.org/)
+
 
 
 ## 个人博客
 
 * [https://yanlee26.github.io/posts](https://yanlee26.github.io/posts)
+
+* [https://github.com/Aaaaaaaty/blog](https://github.com/Aaaaaaaty/blog)
+
+* [https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
