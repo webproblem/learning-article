@@ -85,12 +85,20 @@
 
 
 
+<<<<<<< HEAD
 ## Python
 
 * [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 
 ## PWA
+=======
+## 其他
+
+* [MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web)
+
+* [Awesomes](https://www.awesomes.cn/)
+>>>>>>> 335ff63b5053c03d3fb15e010161a824bfc800cc
 
 * [PWA 中文文档](http://sangka-z.com/PWA-Book-CN/)
 
