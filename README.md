@@ -71,12 +71,28 @@
 * [es6 教程](http://es6.ruanyifeng.com/)
 
 
+## Babel
+
+* [Babel文档](https://babeljs.cn/)
+
+
 
 ## 小程序
 
 * [小程序文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 
 * [小程序社区](http://www.wxapp-union.com/)
+
+
+
+## Python
+
+* [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+
+
+## PWA
+
+* [PWA 中文文档](http://sangka-z.com/PWA-Book-CN/)
 
 
 
@@ -87,7 +103,8 @@
 * [Awesomes](https://www.awesomes.cn/)
 
 
-## 技术博客
+
+## 团队博客
 
 * [百度 EUX 团队博客](http://eux.baidu.com/)
 
