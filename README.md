@@ -10,6 +10,8 @@
 
 * [前端跨域](https://qiutc.me/post/cross-domain-collections.html)
 
+* [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
+
 
 ## vue
 
@@ -83,6 +85,10 @@
 
 * [小程序社区](http://www.wxapp-union.com/)
 
+* [基于 Vue.js 的小程序开发框架](https://github.com/Meituan-Dianping/mpvue)
+
+* [让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
+
 
 
 ## Python
@@ -119,6 +125,8 @@
 * [腾讯 AlloyTeam 团队博客](http://alloyteam.com/)
 
 * [腾讯 IMWEB 团队](http://imweb.github.io/)
+
+* [前端俱乐部](https://feclub.cn/home)
 
 * [W3C 中国](http://www.chinaw3c.org/)
 
