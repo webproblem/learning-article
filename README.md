@@ -12,6 +12,7 @@
 
 * [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
 
+* [从输入URL到页面加载的过程](https://zhuanlan.zhihu.com/p/34453198?group_id=957277540147056640)
 
 ## vue
 
