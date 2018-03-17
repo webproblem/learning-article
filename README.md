@@ -14,6 +14,10 @@
 
 * [从输入URL到页面加载的过程](https://zhuanlan.zhihu.com/p/34453198?group_id=957277540147056640)
 
+* [虚拟DOM介绍](https://www.jianshu.com/p/616999666920)
+
+* [React常见问题](http://imweb.io/topic/5aa54d6c16bc830d673d42ee)
+
 ## vue
 
 * [Vue 官方文档](https://cn.vuejs.org/v2/guide/)
@@ -45,6 +49,10 @@
 ## React
 
 * [React 文档](https://doc.react-china.org/)
+
+* [react-router 文档](http://react-guide.github.io/react-router-cn/docs/Introduction.html)
+
+* [redux 文档](http://cn.redux.js.org/)
 
 * [Ant Design](https://ant.design/index-cn)
 
@@ -86,9 +94,9 @@
 
 * [小程序社区](http://www.wxapp-union.com/)
 
-* [基于 Vue.js 的小程序开发框架](https://github.com/Meituan-Dianping/mpvue)
+* [mpvue 基于 Vue.js 的小程序开发框架](https://github.com/Meituan-Dianping/mpvue)
 
-* [让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
+* [wepy 让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
 
 
 
