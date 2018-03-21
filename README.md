@@ -18,6 +18,8 @@
 
 * [React常见问题](http://imweb.io/topic/5aa54d6c16bc830d673d42ee)
 
+* [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)
+
 ## vue
 
 * [Vue 官方文档](https://cn.vuejs.org/v2/guide/)
@@ -59,9 +61,9 @@
 * [Ant Motion 动画框架](https://motion.ant.design/)
 
 
-## typescript
+## Typescript
 
-* [typescript 文档](https://www.tslang.cn/)
+* [Typescript 文档](https://www.tslang.cn/)
 
 
 
@@ -148,3 +150,19 @@
 * [https://github.com/Aaaaaaaty/blog](https://github.com/Aaaaaaaty/blog)
 
 * [https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
+
+
+
+## 面试题资源
+
+* [前端面试考点多？看这几篇文章就够了](https://juejin.im/post/5aae076d6fb9a028cc6100a9)
+
+* [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
+
+* [记录面试中一些回答不够好的题](https://juejin.im/post/5a9b8417518825558251ce15)
+
+* [前端知识集锦](https://juejin.im/post/5a961d496fb9a06356314a36)
+
+* [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+
+* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
