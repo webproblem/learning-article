@@ -123,7 +123,13 @@
 
 ## GraphQL
 
-* [GraphQL 中文文档](http://graphql.cn/) 
+* [GraphQL 中文文档](http://graphql.cn/)
+
+
+
+## 机器学习
+
+* [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/?hl=zh-CN)
 
 
 
@@ -132,6 +138,8 @@
 * [MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web)
 
 * [Awesomes](https://www.awesomes.cn/)
+
+* [印记中文](https://www.docschina.org/)
 
 
 
