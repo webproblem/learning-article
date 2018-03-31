@@ -65,6 +65,8 @@
 
 * [Typescript 文档](https://www.tslang.cn/)
 
+* [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+
 
 
 ## webpack
@@ -141,6 +143,8 @@
 
 * [印记中文](https://www.docschina.org/)
 
+* [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+
 
 
 ## 团队博客
@@ -188,3 +192,7 @@
 * [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 
 * [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
+
+
+
+![](./assets/web.jpg)
