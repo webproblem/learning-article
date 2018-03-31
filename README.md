@@ -196,3 +196,5 @@
 
 
 ![](./assets/web.jpg)
+
+![](./assets/learning.jpg)
