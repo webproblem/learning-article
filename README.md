@@ -20,6 +20,10 @@
 
 * [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)
 
+* [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
+
+* [为vue项目添加骨架屏](https://xiaoiver.github.io/coding/2017/07/30/%E4%B8%BAvue%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0%E9%AA%A8%E6%9E%B6%E5%B1%8F.html)
+
 ## vue
 
 * [Vue 官方文档](https://cn.vuejs.org/v2/guide/)
@@ -29,6 +33,8 @@
 * [vue-router 文档](https://router.vuejs.org/zh-cn/index.html)
 
 * [vue-loader 文档](https://vue-loader.vuejs.org/zh-cn/)
+
+* [Vue.js 服务器端渲染指南](https://ssr.vuejs.org/zh/)
 
 * [Nuxt.js 文档](https://zh.nuxtjs.org/guide)
 
