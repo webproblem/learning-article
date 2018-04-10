@@ -92,9 +92,24 @@
 * [es6 教程](http://es6.ruanyifeng.com/)
 
 
+
 ## Babel
 
 * [Babel文档](https://babeljs.cn/)
+
+
+
+## NodeJS
+
+* [Koa](https://koa.bootcss.com/)
+
+* [Koa2进阶学习笔记](https://github.com/ChenShenhai/koa2-note/)
+
+
+
+## MongoDB
+
+* [MongoDB中文网](http://www.mongodb.org.cn/)
 
 
 
@@ -183,6 +198,11 @@
 
 * [https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
 
+* [廖雪峰博客](https://www.liaoxuefeng.com/)
+
+* [阮一峰博客](http://www.ruanyifeng.com/blog/javascript/)
+
+* [张鑫旭博客](http://www.zhangxinxu.com/)
 
 
 ## 面试题资源
