@@ -101,10 +101,17 @@
 
 ## NodeJS
 
+* [Node.js 中文网](http://nodejs.cn/)
+
 * [Koa](https://koa.bootcss.com/)
 
 * [Koa2进阶学习笔记](https://github.com/ChenShenhai/koa2-note/)
 
+* [Node.js 优秀学习资源汇总](https://zhuanlan.zhihu.com/p/35500767)
+
+* [Express](http://www.expressjs.com.cn/)
+
+* [如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
 
 
 ## MongoDB
