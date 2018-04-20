@@ -24,6 +24,10 @@
 
 * [为vue项目添加骨架屏](https://xiaoiver.github.io/coding/2017/07/30/%E4%B8%BAvue%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0%E9%AA%A8%E6%9E%B6%E5%B1%8F.html)
 
+* [打通前后端全栈开发node+vue进阶](https://www.cnblogs.com/chengduxiaoc/p/7718768.html)
+
+
+
 ## vue
 
 * [Vue 官方文档](https://cn.vuejs.org/v2/guide/)
@@ -79,6 +83,9 @@
 
 * [webpack 文档](https://doc.webpack-china.org/)
 
+* [webpack 中文文档(v3.5.5)](http://www.css88.com/doc/webpack/)
+
+* [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 
 
 ## Parcel
@@ -112,6 +119,9 @@
 * [Express](http://www.expressjs.com.cn/)
 
 * [如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+
+* [《一起学 Node.js》](https://github.com/nswbmw/N-blog)
+
 
 
 ## MongoDB
@@ -148,6 +158,8 @@
 * [认识Flutter](https://segmentfault.com/a/1190000008825105)
 
 * [Flutter攻略](https://segmentfault.com/blog/flutter)
+
+* [Flutter中文网](https://flutterchina.club/)
 
 
 
@@ -195,6 +207,8 @@
 
 * [W3C 中国](http://www.chinaw3c.org/)
 
+* [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
+
 
 
 ## 个人博客
@@ -210,6 +224,13 @@
 * [阮一峰博客](http://www.ruanyifeng.com/blog/javascript/)
 
 * [张鑫旭博客](http://www.zhangxinxu.com/)
+
+
+
+## Github
+
+* [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN) 
+
 
 
 ## 面试题资源
