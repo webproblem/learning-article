@@ -56,6 +56,8 @@
 
 * [剖析vue实现原理，自己动手实现mvvm](https://github.com/DMQ/mvvm)
 
+* [Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
+
 
 
 ## React
@@ -140,6 +142,10 @@
 
 * [wepy 让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
 
+* [zanui-weapp](https://github.com/youzan/zanui-weapp)
+
+* [WeUI for 小程序](https://github.com/Tencent/weui-wxss)
+
 
 
 ## Python
@@ -208,6 +214,8 @@
 * [W3C 中国](http://www.chinaw3c.org/)
 
 * [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
+
+* [有赞技术团队](https://tech.youzan.com/)
 
 
 
