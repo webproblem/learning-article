@@ -26,6 +26,8 @@
 
 * [打通前后端全栈开发node+vue进阶](https://www.cnblogs.com/chengduxiaoc/p/7718768.html)
 
+* [前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/)
+
 
 
 ## vue
@@ -58,6 +60,8 @@
 
 * [Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
 
+* [Vue 1.0 中文文档](https://v1-cn.vuejs.org/guide/)
+
 
 
 ## React
@@ -71,6 +75,9 @@
 * [Ant Design](https://ant.design/index-cn)
 
 * [Ant Motion 动画框架](https://motion.ant.design/)
+
+* [React 模式](http://sangka-z.com/react-in-patterns-cn/)
+
 
 
 ## Typescript
@@ -105,6 +112,14 @@
 ## Babel
 
 * [Babel文档](https://babeljs.cn/)
+
+
+
+## axios
+
+* [Axios 中文说明](https://www.kancloud.cn/yunye/axios/234845)
+
+* [axios 中文文档翻译](https://segmentfault.com/a/1190000008470355)
 
 
 
@@ -148,14 +163,26 @@
 
 
 
+## 可视化工具
+
+* [百度 echarts](http://echarts.baidu.com/)
+
+* [蚂蚁金服数据可视化 AntV](https://antv.alipay.com/zh-cn/index.html)
+
+* [v-charts](https://v-charts.js.org/)
+
+
+
 ## Python
 
 * [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 
+
 ## PWA
 
 * [PWA 中文文档](http://sangka-z.com/PWA-Book-CN/)
+* [LAVAS](https://lavas.baidu.com/)
 
 
 
@@ -217,6 +244,10 @@
 
 * [有赞技术团队](https://tech.youzan.com/)
 
+* [滴滴技术博客](https://github.com/DDFE/DDFE-blog)
+
+* [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE)
+
 
 
 ## 个人博客
@@ -235,9 +266,9 @@
 
 
 
-## Github
+## Github资源
 
-* [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN) 
+* [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 
 
