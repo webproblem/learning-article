@@ -300,6 +300,8 @@
 
 * [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
 
+* [前端面试题总结——综合问题](https://mp.weixin.qq.com/s?__biz=MzUzOTM0MTE4OQ==&mid=2247484010&idx=1&sn=552101d7c9476085e67aa88a5fea6850&chksm=fac8ba80cdbf33963a2cd40c5c597098d39a5566c23865550780a0df0b8c57eb6bf88c5b0fc3&scene=21#wechat_redirect)
+
 
 
 ![](./assets/web.jpg)
