@@ -107,6 +107,8 @@
 
 * [es6 教程](http://es6.ruanyifeng.com/)
 
+* [《深入理解ES6》教程学习笔记](https://github.com/hyy1115/ES6-learning)
+
 
 
 ## Babel
@@ -139,11 +141,17 @@
 
 * [《一起学 Node.js》](https://github.com/nswbmw/N-blog)
 
+* [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
+
+* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
 
 
 ## MongoDB
 
 * [MongoDB中文网](http://www.mongodb.org.cn/)
+
+* [mongoose中文文档](https://mongoosedoc.top/docs/index.html)
 
 
 
@@ -218,6 +226,14 @@
 
 
 
+## Chrome
+
+* [Chrome 开发者工具文档](http://www.css88.com/doc/chrome-devtools/)
+
+* [Chrome 插件开发简要指南](https://www.w3cschool.cn/kesyi/kesyi-m5uo24rx.html)
+
+
+
 ## 其他
 
 * [MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web)
@@ -261,6 +277,12 @@
 * [大搜车无线团队](http://f2e.souche.com/blog/)
 
 * [大搜车博客](https://blog.souche.com/)
+
+* [人人网 FED 博客](https://fed.renren.com/)
+
+* [w3cschool](https://www.w3cschool.cn/)
+
+* [w3school](http://www.w3school.com.cn/)
 
 
 
