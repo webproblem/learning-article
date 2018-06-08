@@ -80,6 +80,12 @@
 
 
 
+## Underscore
+
+* [Underscore 源码分析](https://yoyoyohamapi.gitbooks.io/undersercore-analysis/content/)
+
+
+
 ## Typescript
 
 * [Typescript 文档](https://www.tslang.cn/)
@@ -179,6 +185,7 @@
 
 * [v-charts](https://v-charts.js.org/)
 
+* [D3.js](https://github.com/d3/d3/wiki/CN-Home)
 
 
 ## 提高生产力解决方案
@@ -188,6 +195,10 @@
 * [Easy Mock](https://www.easy-mock.com/)
 
 * [docsify](https://docsify.js.org/#/)
+
+* [文档编写工具](https://github.com/star7th/showdoc)
+
+* [标你妹啊](http://www.biaonimeia.com)
 
 
 
