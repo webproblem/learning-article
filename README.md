@@ -28,6 +28,10 @@
 
 * [前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/)
 
+* [程序员最佳学习方法](https://mp.weixin.qq.com/s/N3HV7eEeyyPZYZuTA_DbaQ)
+
+* [vue+axios 前端实现登录拦截](https://www.cnblogs.com/guoxianglei/p/7084506.html)
+
 
 
 ## vue
@@ -62,6 +66,8 @@
 
 * [Vue 1.0 中文文档](https://v1-cn.vuejs.org/guide/)
 
+* [有赞 Vue UI 库 vant](https://github.com/youzan/vant)
+
 
 
 ## React
@@ -77,6 +83,12 @@
 * [Ant Motion 动画框架](https://motion.ant.design/)
 
 * [React 模式](http://sangka-z.com/react-in-patterns-cn/)
+
+
+
+## Javascript 函数式编程
+
+* [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 
 
 
@@ -123,11 +135,13 @@
 
 
 
-## axios
+## http 请求库
 
 * [Axios 中文说明](https://www.kancloud.cn/yunye/axios/234845)
 
 * [axios 中文文档翻译](https://segmentfault.com/a/1190000008470355)
+
+* [fly](https://github.com/wendux/fly)
 
 
 
@@ -159,6 +173,8 @@
 
 * [mongoose中文文档](https://mongoosedoc.top/docs/index.html)
 
+* [MongoDB Driver API](http://mongodb.github.io/node-mongodb-native/2.0/api/index.html)
+
 
 
 ## 小程序
@@ -174,6 +190,8 @@
 * [zanui-weapp](https://github.com/youzan/zanui-weapp)
 
 * [WeUI for 小程序](https://github.com/Tencent/weui-wxss)
+
+* [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 
 
 
@@ -202,6 +220,7 @@
 
 
 
+
 ## Python
 
 * [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
@@ -223,6 +242,8 @@
 
 * [Flutter中文网](https://flutterchina.club/)
 
+* [Flutter 社区中文资源](https://flutter-io.cn/)
+
 
 
 ## GraphQL
@@ -242,6 +263,10 @@
 * [Chrome 开发者工具文档](http://www.css88.com/doc/chrome-devtools/)
 
 * [Chrome 插件开发简要指南](https://www.w3cschool.cn/kesyi/kesyi-m5uo24rx.html)
+
+* Octotree 扩展插件
+
+* Infinity 扩展插件
 
 
 
@@ -310,6 +335,10 @@
 * [阮一峰博客](http://www.ruanyifeng.com/blog/javascript/)
 
 * [张鑫旭博客](http://www.zhangxinxu.com/)
+
+* [http://obkoro1.com/](http://obkoro1.com/)
+
+* [https://yangbo5207.github.io/wutongluo/](https://yangbo5207.github.io/wutongluo/)
 
 
 
