@@ -68,6 +68,12 @@
 
 * [有赞 Vue UI 库 vant](https://github.com/youzan/vant)
 
+* [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
+
+* [Vue.js 逐行级别的源码分析](https://github.com/HcySunYang/vue-design)
+
+* [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
+
 
 
 ## React
@@ -340,11 +346,18 @@
 
 * [https://yangbo5207.github.io/wutongluo/](https://yangbo5207.github.io/wutongluo/)
 
+* [https://www.chuchur.com/](https://www.chuchur.com/)
+
 
 
 ## Github资源
 
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+
+* [《前端回忆录》](https://github.com/Wscats/Good-Text-Share)
+
+* [前端入门和进阶学习笔记](https://github.com/smyhvae/Web)
+
 
 
 
