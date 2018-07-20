@@ -32,6 +32,8 @@
 
 * [vue+axios 前端实现登录拦截](https://www.cnblogs.com/guoxianglei/p/7084506.html)
 
+* [人工智能写前端](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
+
 
 
 ## vue
@@ -89,6 +91,8 @@
 * [Ant Motion 动画框架](https://motion.ant.design/)
 
 * [React 模式](http://sangka-z.com/react-in-patterns-cn/)
+
+* [mobx 文档](https://cn.mobx.js.org/)
 
 
 
@@ -180,6 +184,10 @@
 * [mongoose中文文档](https://mongoosedoc.top/docs/index.html)
 
 * [MongoDB Driver API](http://mongodb.github.io/node-mongodb-native/2.0/api/index.html)
+
+* [MongoDB 可视化工具 robo3t](https://robomongo.org/)
+
+* [MongoDB 可视化工具 adminMongo](https://github.com/mrvautin/adminMongo)
 
 
 
@@ -304,6 +312,8 @@
 
 * [腾讯 IMWEB 团队](http://imweb.github.io/)
 
+* [腾讯前端IVWEB团队](https://iv-web.github.io/)
+
 * [前端俱乐部](https://feclub.cn/home)
 
 * [W3C 中国](http://www.chinaw3c.org/)
@@ -326,6 +336,10 @@
 
 * [w3school](http://www.w3school.com.cn/)
 
+* [https://www.w3cplus.com/](https://www.w3cplus.com/)
+
+* [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
+
 
 
 ## 个人博客
@@ -347,6 +361,24 @@
 * [https://yangbo5207.github.io/wutongluo/](https://yangbo5207.github.io/wutongluo/)
 
 * [https://www.chuchur.com/](https://www.chuchur.com/)
+
+
+
+## 业界技术交流会
+
+* [FEDAY 前端日](https://fequan.com/2018/)
+
+* [腾讯 Live 开发者大会](http://2018.tlc.ivweb.io/)
+
+* [Alloyteam Web 前端大会](https://ac.alloyteam.com/)
+
+* [前端体验大会](http://feexp.org/shenzhen/)
+
+* [D2 前端技术论坛](http://d2forum.alibaba-inc.com)
+
+* [D2 开发者大会](http://d2forum.alibaba-inc.com/developer2018)
+
+* [全球大前端技术大会](https://gmtc.geekbang.org/)
 
 
 
