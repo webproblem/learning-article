@@ -1,40 +1,8 @@
-# learning-article
+# 说明
 
-## 技术文章
+平时的学习资源都比较的凌乱，看到好的资源都是直接收藏在浏览器的收藏夹中，这样其实并不方便，整理在云笔记上，也不方便查看修改记录，索性就整理在 github 上并开源出来，希望帮助大家能够更快的找到需要的资源。建立该仓库的目的主要是整理收集学习资源，统一管理，方便随时查找。
 
-* [利用 javascript 实现富文本编辑器](http://eux.baidu.com/blog/2017/11/%E5%88%A9%E7%94%A8-javascript-%E5%AE%9E%E7%8E%B0%E5%AF%8C%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8)
-
-* [JS正则表达式](https://juejin.im/post/5965943ff265da6c30653879)
-
-* [JS浮点数计算](https://juejin.im/post/5a6fce10f265da3e261c3c71)
-
-* [前端跨域](https://qiutc.me/post/cross-domain-collections.html)
-
-* [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
-
-* [从输入URL到页面加载的过程](https://zhuanlan.zhihu.com/p/34453198?group_id=957277540147056640)
-
-* [虚拟DOM介绍](https://www.jianshu.com/p/616999666920)
-
-* [React常见问题](http://imweb.io/topic/5aa54d6c16bc830d673d42ee)
-
-* [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)
-
-* [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
-
-* [为vue项目添加骨架屏](https://xiaoiver.github.io/coding/2017/07/30/%E4%B8%BAvue%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0%E9%AA%A8%E6%9E%B6%E5%B1%8F.html)
-
-* [打通前后端全栈开发node+vue进阶](https://www.cnblogs.com/chengduxiaoc/p/7718768.html)
-
-* [前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/)
-
-* [程序员最佳学习方法](https://mp.weixin.qq.com/s/N3HV7eEeyyPZYZuTA_DbaQ)
-
-* [vue+axios 前端实现登录拦截](https://www.cnblogs.com/guoxianglei/p/7084506.html)
-
-* [人工智能写前端](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
-
-
+目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
 ## vue
 
@@ -62,7 +30,7 @@
 
 * [cube-ui](https://didi.github.io/cube-ui/#/zh-CN/docs/introduction)
 
-* [VONIC UI 框架](https://wangdahoo.github.io/vonic-documents/#/?id=vonic)
+* [vonic UI 框架](https://github.com/wangdahoo/vonic)
 
 * [Mint UI](http://mint-ui.github.io/#!/zh-cn)
 
@@ -326,7 +294,9 @@
 
 
 
-## 团队博客/社区
+## 博客/社区
+
+### 团队博客
 
 * [百度 EUX 团队博客](http://eux.baidu.com/)
 
@@ -340,13 +310,12 @@
 
 * [腾讯 AlloyTeam 团队博客](http://alloyteam.com/)
 
-* [腾讯 IMWEB 团队](http://imweb.github.io/)
+* [腾讯 IMWEB 团队](http://imweb.io/)
 
 * [腾讯前端IVWEB团队](https://iv-web.github.io/)
 
 * [前端俱乐部](https://feclub.cn/home)
 
-* [W3C 中国](http://www.chinaw3c.org/)
 
 * [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
 
@@ -364,23 +333,10 @@
 
 * [人人网 FED 博客](https://fed.renren.com/)
 
-* [w3cschool](https://www.w3cschool.cn/)
-
-* [w3school](http://www.w3school.com.cn/)
-
-* [w3cplus](https://www.w3cplus.com/)
 
 * [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
 
-
-
-## 个人博客
-
-* [https://yanlee26.github.io/posts](https://yanlee26.github.io/posts)
-
-* [https://github.com/Aaaaaaaty/blog](https://github.com/Aaaaaaaty/blog)
-
-* [https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
+### 个人博客
 
 * [廖雪峰博客](https://www.liaoxuefeng.com/)
 
@@ -388,11 +344,36 @@
 
 * [张鑫旭博客](http://www.zhangxinxu.com/)
 
+* [https://yanlee26.github.io/posts](https://yanlee26.github.io/posts)
+
+* [https://github.com/Aaaaaaaty/blog](https://github.com/Aaaaaaaty/blog)
+
+* [https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
+
+
 * [http://obkoro1.com/](http://obkoro1.com/)
 
 * [https://yangbo5207.github.io/wutongluo/](https://yangbo5207.github.io/wutongluo/)
 
 * [https://www.chuchur.com/](https://www.chuchur.com/)
+
+### 社区
+
+* [掘金](https://juejin.im/timeline)
+
+* [segmentfault](https://segmentfault.com/)
+
+* [博客园](https://www.cnblogs.com/)
+
+* [前端乱炖](http://www.html-js.com/)
+
+* [w3cschool](https://www.w3cschool.cn/)
+
+* [w3school](http://www.w3school.com.cn/)
+
+* [w3cplus](https://www.w3cplus.com/)
+
+* [W3C 中国](http://www.chinaw3c.org/)
 
 
 
