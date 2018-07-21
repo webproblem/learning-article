@@ -38,6 +38,8 @@
 
 ## vue
 
+## 文档
+
 * [Vue 官方文档](https://cn.vuejs.org/v2/guide/)
 
 * [Vuex 文档](https://vuex.vuejs.org/zh-cn/)
@@ -50,6 +52,16 @@
 
 * [Nuxt.js 文档](https://zh.nuxtjs.org/guide)
 
+* [Vue 1.0 中文文档](https://v1-cn.vuejs.org/guide/)
+
+* [Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
+
+## UI 库
+
+* [有赞 Vue UI 库 vant](https://github.com/youzan/vant)
+
+* [cube-ui](https://didi.github.io/cube-ui/#/zh-CN/docs/introduction)
+
 * [VONIC UI 框架](https://wangdahoo.github.io/vonic-documents/#/?id=vonic)
 
 * [Mint UI](http://mint-ui.github.io/#!/zh-cn)
@@ -58,27 +70,23 @@
 
 * [iview UI](https://www.iviewui.com/)
 
+## 源码
+
 * [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
 
 * [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 
 * [剖析vue实现原理，自己动手实现mvvm](https://github.com/DMQ/mvvm)
 
-* [Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
-
-* [Vue 1.0 中文文档](https://v1-cn.vuejs.org/guide/)
-
-* [有赞 Vue UI 库 vant](https://github.com/youzan/vant)
-
 * [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
 
 * [Vue.js 逐行级别的源码分析](https://github.com/HcySunYang/vue-design)
 
-* [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
-
 
 
 ## React
+
+## 文档
 
 * [React 文档](https://doc.react-china.org/)
 
@@ -86,13 +94,21 @@
 
 * [redux 文档](http://cn.redux.js.org/)
 
-* [Ant Design](https://ant.design/index-cn)
-
-* [Ant Motion 动画框架](https://motion.ant.design/)
-
 * [React 模式](http://sangka-z.com/react-in-patterns-cn/)
 
 * [mobx 文档](https://cn.mobx.js.org/)
+
+## UI 库
+
+* [ant-design](https://github.com/ant-design/ant-design/)
+
+* [ant-design-mobile](https://github.com/ant-design/ant-design-mobile/)
+
+* [ant-motion 动画框架](https://github.com/ant-design/ant-motion)
+
+* [Nerv-京东高性能前端框架](https://github.com/NervJS/nerv)
+
+* [Zent](https://youzan.github.io/zent/zh/guides/install)
 
 
 
@@ -189,6 +205,16 @@
 
 * [MongoDB 可视化工具 adminMongo](https://github.com/mrvautin/adminMongo)
 
+## 移动端
+
+* [Taro-多端统一开发框架](https://github.com/NervJS/nerv)
+
+* [Weex](https://github.com/apache/incubator-weex/)
+
+* [react-native](https://github.com/facebook/react-native)
+
+* [React Native 中文网
+](https://reactnative.cn/)
 
 
 ## 小程序
@@ -205,6 +231,10 @@
 
 * [WeUI for 小程序](https://github.com/Tencent/weui-wxss)
 
+* [iview-weapp](https://github.com/TalkingData/iview-weapp)
+
+* [zanui-weapp](https://github.com/youzan/zanui-weapp)
+
 * [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 
 
@@ -220,7 +250,7 @@
 * [D3.js](https://github.com/d3/d3/wiki/CN-Home)
 
 
-## 提高生产力解决方案
+## 提高生产力工具
 
 * [飞冰-让前端开发简单而友好](https://alibaba.github.io/ice) 
 
@@ -296,7 +326,7 @@
 
 
 
-## 团队博客
+## 团队博客/社区
 
 * [百度 EUX 团队博客](http://eux.baidu.com/)
 
@@ -322,7 +352,9 @@
 
 * [有赞技术团队](https://tech.youzan.com/)
 
-* [滴滴技术博客](https://github.com/DDFE/DDFE-blog)
+* [滴滴开源平台](https://didi.github.io/)
+
+* [滴滴DDFE博客](https://github.com/DDFE/DDFE-blog)
 
 * [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE)
 
@@ -336,7 +368,7 @@
 
 * [w3school](http://www.w3school.com.cn/)
 
-* [https://www.w3cplus.com/](https://www.w3cplus.com/)
+* [w3cplus](https://www.w3cplus.com/)
 
 * [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
 
@@ -389,25 +421,6 @@
 * [《前端回忆录》](https://github.com/Wscats/Good-Text-Share)
 
 * [前端入门和进阶学习笔记](https://github.com/smyhvae/Web)
-
-
-
-
-## 面试题资源
-
-* [前端面试考点多？看这几篇文章就够了](https://juejin.im/post/5aae076d6fb9a028cc6100a9)
-
-* [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
-
-* [记录面试中一些回答不够好的题](https://juejin.im/post/5a9b8417518825558251ce15)
-
-* [前端知识集锦](https://juejin.im/post/5a961d496fb9a06356314a36)
-
-* [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
-
-* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
-
-* [前端面试题总结——综合问题](https://mp.weixin.qq.com/s?__biz=MzUzOTM0MTE4OQ==&mid=2247484010&idx=1&sn=552101d7c9476085e67aa88a5fea6850&chksm=fac8ba80cdbf33963a2cd40c5c597098d39a5566c23865550780a0df0b8c57eb6bf88c5b0fc3&scene=21#wechat_redirect)
 
 
 
