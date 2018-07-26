@@ -4,6 +4,12 @@
 
 目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
+* [面试资源](./面试资源.md)
+
+* [项目资源](./收集的项目资源.md)
+
+* [技术文章](./技术文章.md)
+
 ## vue
 
 ### 文档
@@ -107,6 +113,8 @@
 * [webpack 中文文档(v3.5.5)](http://www.css88.com/doc/webpack/)
 
 * [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
+
+* [入门Webpack，看这篇就够了](https://www.jianshu.com/p/42e11515c10f)
 
 
 ## Parcel
@@ -350,12 +358,13 @@
 
 * [https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
 
-
 * [http://obkoro1.com/](http://obkoro1.com/)
 
 * [https://yangbo5207.github.io/wutongluo/](https://yangbo5207.github.io/wutongluo/)
 
 * [https://www.chuchur.com/](https://www.chuchur.com/)
+
+* [kidney](https://www.cnblogs.com/kidney/)
 
 ### 社区
 
@@ -377,7 +386,7 @@
 
 
 
-## 业界技术交流会
+## 业界技术交流会(一年一度的持续性的交流会)
 
 * [FEDAY 前端日](https://fequan.com/2018/)
 
