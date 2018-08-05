@@ -237,6 +237,8 @@
 
 * [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
+* [Python 入门教程](https://github.com/TwoWater/Python)
+
 
 
 ## PWA
@@ -402,6 +404,10 @@
 * [《前端回忆录》](https://github.com/Wscats/Good-Text-Share)
 
 * [前端入门和进阶学习笔记](https://github.com/smyhvae/Web)
+
+* [PDF - 收集的各种资源](https://github.com/mynane/PDF)
+
+* [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
 
 
