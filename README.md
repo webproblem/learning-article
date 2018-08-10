@@ -1,3 +1,5 @@
+
+
 # 说明
 
 平时的学习资源都比较的凌乱，看到好的资源都是直接收藏在浏览器的收藏夹中，这样其实并不方便，整理在云笔记上，也不方便查看修改记录，索性就整理在 github 上并开源出来，希望帮助大家能够更快的找到需要的资源。建立该仓库的目的主要是整理收集学习资源，统一管理，方便随时查找。
@@ -76,6 +78,8 @@
 
 * [mobx 文档](https://cn.mobx.js.org/)
 
+* [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+
 ### UI 库
 
 * [ant-design](https://github.com/ant-design/ant-design/)
@@ -96,13 +100,11 @@
 
 * [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 
+* Underscore
 
+  * [Underscore 源码分析](https://yoyoyohamapi.gitbooks.io/undersercore-analysis/content/)
 
-## Underscore
-
-* [Underscore 源码分析](https://yoyoyohamapi.gitbooks.io/undersercore-analysis/content/)
-
-
+    
 
 ## Typescript
 
@@ -149,7 +151,13 @@
 
 * [axios 中文文档翻译](https://segmentfault.com/a/1190000008470355)
 
-* [fly](https://github.com/wendux/fly)
+* [fly : 跨平台的http请求库](https://github.com/wendux/fly)
+
+
+
+## Promise
+
+* [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
 
 
 
@@ -195,8 +203,7 @@
 
 * [react-native](https://github.com/facebook/react-native)
 
-* [React Native 中文网
-](https://reactnative.cn/)
+* [React Native 中文网](https://reactnative.cn/)
 
 
 ## 小程序
@@ -215,8 +222,6 @@
 
 * [iview-weapp](https://github.com/TalkingData/iview-weapp)
 
-* [zanui-weapp](https://github.com/youzan/zanui-weapp)
-
 * [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 
 
@@ -227,7 +232,7 @@
 
 * [蚂蚁金服数据可视化 AntV](https://antv.alipay.com/zh-cn/index.html)
 
-* [v-charts](https://v-charts.js.org/)
+* [v-charts : 基于 Vue2.0 和 echarts 封装的 v-charts 图表组件](https://v-charts.js.org/)
 
 * [D3.js](https://github.com/d3/d3/wiki/CN-Home)
 
@@ -236,15 +241,19 @@
 
 * [飞冰-让前端开发简单而友好](https://alibaba.github.io/ice) 
 
-* [Easy Mock](https://www.easy-mock.com/)
+* [Easy Mock : 可视化模拟数据工具](https://www.easy-mock.com/)
 
-* [docsify](https://docsify.js.org/#/)
+* [docsify :  一个神奇的文档网站生成工具](https://docsify.js.org/#/)
 
-* [文档编写工具](https://github.com/star7th/showdoc)
+* [showdoc : 文档编写工具](https://github.com/star7th/showdoc)
 
-* [标你妹啊](http://www.biaonimeia.com)
+* [标你妹啊 : 一款自动化设计标注工具](http://www.biaonimeia.com)
 
+* [Framer : 全功能设计工具](https://www.framercn.com/)
 
+* [Kitchen : 一款为设计者提升工作效率的 Sketch 工具集](https://kitchen.alipay.com/)
+
+* [gka : 一款简单的、高效的帧动画生成工具，图片处理工具](https://github.com/gkajs/gka)
 
 
 ## Python
@@ -258,7 +267,8 @@
 ## PWA
 
 * [PWA 中文文档](http://sangka-z.com/PWA-Book-CN/)
-* [LAVAS](https://lavas.baidu.com/)
+
+* [LAVAS : 基于 Vue.js 的 PWA 解决方案](https://lavas.baidu.com/)
 
 
 
@@ -392,6 +402,10 @@
 
 * [W3C 中国](http://www.chinaw3c.org/)
 
+* [重庆前端社区](http://www.yufe.org/)
+
+* [前端圈](https://fequan.com/)
+
 
 
 ## 业界技术交流会(一年一度的持续性的交流会)
@@ -410,19 +424,18 @@
 
 * [全球大前端技术大会](https://gmtc.geekbang.org/)
 
+* [iWeb 峰会](http://2018.html5dw.com/)
+
 
 
 ## Github资源
 
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
-
 * [《前端回忆录》](https://github.com/Wscats/Good-Text-Share)
-
 * [前端入门和进阶学习笔记](https://github.com/smyhvae/Web)
-
 * [PDF - 收集的各种资源](https://github.com/mynane/PDF)
-
 * [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
+* [GitHub最全的前端资源汇总仓库 ](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
 
 
