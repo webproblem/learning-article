@@ -12,6 +12,8 @@
 
 * [技术文章](./技术文章.md)
 
+* [前端早读课文章](./前端早读课.md)
+
 ## vue
 
 ### 文档
@@ -255,6 +257,8 @@
 
 * [gka : 一款简单的、高效的帧动画生成工具，图片处理工具](https://github.com/gkajs/gka)
 
+* [Typora : 一款强大的 markdown 编辑器](https://www.typora.io)
+
 
 ## Python
 
@@ -342,7 +346,6 @@
 
 * [前端俱乐部](https://feclub.cn/home)
 
-
 * [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
 
 * [有赞技术团队](https://tech.youzan.com/)
@@ -359,8 +362,9 @@
 
 * [人人网 FED 博客](https://fed.renren.com/)
 
-
 * [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
+
+* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/)
 
 ### 个人博客
 
@@ -383,6 +387,10 @@
 * [https://www.chuchur.com/](https://www.chuchur.com/)
 
 * [kidney](https://www.cnblogs.com/kidney/)
+
+* [http://www.taoweng.site/](http://www.taoweng.site/)
+
+* [小剧客栈](https://www.bh-lay.com/)
 
 ### 社区
 
@@ -425,6 +433,8 @@
 * [全球大前端技术大会](https://gmtc.geekbang.org/)
 
 * [iWeb 峰会](http://2018.html5dw.com/)
+
+* [CSS大会](https://css.w3ctech.com/)
 
 
 
