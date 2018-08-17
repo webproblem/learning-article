@@ -10,7 +10,7 @@
 
 * [项目资源](./收集的项目资源.md)
 
-* [技术文章](./技术文章.md)
+* [知识锦集](./知识锦集.md)
 
 * [前端早读课文章](./前端早读课.md)
 
@@ -259,6 +259,8 @@
 
 * [Typora : 一款强大的 markdown 编辑器](https://www.typora.io)
 
+* [processon : 免费在线作图](https://www.processon.com/)
+
 
 ## Python
 
@@ -332,11 +334,25 @@
 
 * [百度 EFE 团队博客](http://efe.baidu.com/)
 
+* [百度FEX 团队](http://fex.baidu.com/)
+
+* [百度用户体验中心](http://uxc.baidu.com/)
+
 * [京东凹凸实验室博客](https://aotu.io/)
+
+* [京东设计中心](http://jdc.jd.com/)
 
 * [美团点评技术团队博客](https://tech.meituan.com/)
 
+* [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE)
+
 * [淘宝前端团队博客](http://taobaofed.org/)
+
+* [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
+
+* [阿里巴巴国际UED团队](http://www.aliued.com/)
+
+* [阿里巴巴中文站UED](http://www.aliued.cn/)
 
 * [腾讯 AlloyTeam 团队博客](http://alloyteam.com/)
 
@@ -344,9 +360,9 @@
 
 * [腾讯前端IVWEB团队](https://iv-web.github.io/)
 
-* [前端俱乐部](https://feclub.cn/home)
+* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/)
 
-* [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
+* [腾讯CDC](http://cdc.tencent.com/)
 
 * [有赞技术团队](https://tech.youzan.com/)
 
@@ -362,9 +378,21 @@
 
 * [人人网 FED 博客](https://fed.renren.com/)
 
-* [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
+* [网易用户体验中心](http://uedc.163.com/)
 
-* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/)
+* [携程UED](http://ued.ctrip.com/)
+
+* [奇虎360-奇舞团](https://75team.com/)
+
+* [360用户体验设计中心](http://uxc.360.cn/)
+
+* [去哪儿网大前端技术中心](https://ymfe.org/index.html)
+
+* [前端俱乐部](https://feclub.cn/home)
+
+* [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
+
+
 
 ### 个人博客
 
@@ -391,6 +419,10 @@
 * [http://www.taoweng.site/](http://www.taoweng.site/)
 
 * [小剧客栈](https://www.bh-lay.com/)
+
+* [玉伯](https://github.com/lifesinger/blog)
+
+* [CSS 森林](http://www.cssforest.org/)
 
 ### 社区
 
@@ -434,17 +466,24 @@
 
 * [iWeb 峰会](http://2018.html5dw.com/)
 
-* [CSS大会](https://css.w3ctech.com/)
+* [CSS 大会](https://css.w3ctech.com/)
+
+* [IMWeb 前端大会](https://2018.imweb.io/)
 
 
 
 ## Github资源
 
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+
 * [《前端回忆录》](https://github.com/Wscats/Good-Text-Share)
+
 * [前端入门和进阶学习笔记](https://github.com/smyhvae/Web)
+
 * [PDF - 收集的各种资源](https://github.com/mynane/PDF)
+
 * [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
+
 * [GitHub最全的前端资源汇总仓库 ](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
 
