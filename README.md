@@ -6,6 +6,8 @@
 
 目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
+目录
+
 * [面试资源](./面试资源.md)
 
 * [项目资源](./收集的项目资源.md)
@@ -13,6 +15,60 @@
 * [知识锦集](./知识锦集.md)
 
 * [前端早读课文章](./前端早读课.md)
+
+* [Vue 相关](#vue)
+
+* [React 相关](#react)
+
+* [Javascript 函数式编程](#javascript-函数式编程)
+
+* [TypeSctipt](#typescript)
+
+* [webpack](#webpack)
+
+* [Parcel](#parcel)
+
+* [Gulp](#gulp)
+
+* [es系列](#es系列)
+
+* [Babel](#babel)
+
+* [http 请求库](#http-请求库)
+
+* [Promise](#promise)
+
+* [NodeJS](#nodejs)
+
+* [MongoDB](#mongodb)
+
+* [小程序](#小程序)
+
+* [可视化工具](#可视化工具)
+
+* [提高生产力工具](#提高生产力工具)
+
+* [Python](#python)
+
+* [PWA](#pwa)
+
+* [Flutter](#flutter)
+
+* [GraphQL](#graphql)
+
+* [机器学习](#机器学习)
+
+* [Chrmoe](#chrome)
+
+* [其他](#其他)
+
+* [博客/社区](#博客社区)
+
+* [业界技术交流会](#业界技术交流会一年一度的持续性的交流会)
+
+* [Github资源](#github资源)
+
+
 
 ## vue
 
@@ -106,6 +162,8 @@
 
   * [Underscore 源码分析](https://yoyoyohamapi.gitbooks.io/undersercore-analysis/content/)
 
+  * [underscore-1.8.3.js 源码解读](https://github.com/hanzichi/underscore-analysis)
+
     
 
 ## Typescript
@@ -130,6 +188,11 @@
 ## Parcel
 
 * [Parcel 文档](https://parceljs.org/)
+
+
+## Gulp
+
+* [Gulp 中文网](https://www.gulpjs.com.cn/)
 
 
 
@@ -288,6 +351,10 @@
 
 * [Flutter 社区中文资源](https://flutter-io.cn/)
 
+* [Dart 中文社区](https://www.dart-china.org/)
+
+* [Dart 语言中文社区](http://www.cndartlang.com/)
+
 
 
 ## GraphQL
@@ -305,6 +372,8 @@
 ## Chrome
 
 * [Chrome 开发者工具文档](http://www.css88.com/doc/chrome-devtools/)
+
+* [Chrome开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 
 * [Chrome 插件开发简要指南](https://www.w3cschool.cn/kesyi/kesyi-m5uo24rx.html)
 
@@ -324,6 +393,7 @@
 
 * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
 
+* [Web前端导航](http://www.alloyteam.com/nav/)
 
 
 ## 博客/社区
@@ -364,6 +434,10 @@
 
 * [腾讯CDC](http://cdc.tencent.com/)
 
+* [QQ音乐前端团队](https://www.musicfe.cn/index)
+
+* [腾讯FERD(腾讯网研发中心)](http://qqfe.org/)
+
 * [有赞技术团队](https://tech.youzan.com/)
 
 * [滴滴开源平台](https://didi.github.io/)
@@ -388,9 +462,13 @@
 
 * [去哪儿网大前端技术中心](https://ymfe.org/index.html)
 
+* [今日头条技术博客](https://techblog.toutiao.com/)
+
 * [前端俱乐部](https://feclub.cn/home)
 
 * [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
+
+* [云栖大会](https://yunqi.aliyun.com/2018/hangzhou/index)
 
 
 
@@ -423,6 +501,12 @@
 * [玉伯](https://github.com/lifesinger/blog)
 
 * [CSS 森林](http://www.cssforest.org/)
+
+* [汤姆大叔的博客](http://www.cnblogs.com/TomXu/)
+
+* [https://github.com/jawil/blog](https://github.com/jawil/blog)
+
+* [贤心](http://www.sentsin.com/)
 
 ### 社区
 
@@ -474,6 +558,8 @@
 
 ## Github资源
 
+### 前端
+
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 * [《前端回忆录》](https://github.com/Wscats/Good-Text-Share)
@@ -485,6 +571,10 @@
 * [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
 * [GitHub最全的前端资源汇总仓库 ](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+
+### 其他
+
+[为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 
 
 
