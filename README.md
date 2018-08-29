@@ -6,6 +6,8 @@
 
 目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
+**顺便推广下我的个人学习笔记和技术输出，在隔壁仓库中，地址： [https://github.com/webproblem/Blog]。**
+
 目录
 
 * [面试资源](./面试资源.md)
@@ -224,6 +226,10 @@
 
 * [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
 
+* [Promises/A+](https://promisesaplus.com/)
+
+* [【翻译】Promises/A+规范](http://www.ituring.com.cn/article/66566)
+
 
 
 ## NodeJS
@@ -246,6 +252,8 @@
 
 * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 
+* [Nodejs学习笔记以及经验总结](https://github.com/chyingp/nodejs-learning-guide)
+
 
 
 ## MongoDB
@@ -262,7 +270,7 @@
 
 ## 移动端
 
-* [Taro-多端统一开发框架](https://github.com/NervJS/nerv)
+* [Taro-多端统一开发框架](https://github.com/NervJS/taro)
 
 * [Weex](https://github.com/apache/incubator-weex/)
 
@@ -297,6 +305,8 @@
 
 * [蚂蚁金服数据可视化 AntV](https://antv.alipay.com/zh-cn/index.html)
 
+* [BizCharts : 基于 React 技术栈的图表库](https://github.com/alibaba/BizCharts)
+
 * [v-charts : 基于 Vue2.0 和 echarts 封装的 v-charts 图表组件](https://v-charts.js.org/)
 
 * [D3.js](https://github.com/d3/d3/wiki/CN-Home)
@@ -323,6 +333,14 @@
 * [Typora : 一款强大的 markdown 编辑器](https://www.typora.io)
 
 * [processon : 免费在线作图](https://www.processon.com/)
+
+## 刷题网站
+
+* [LeetCode 中文版](https://leetcode-cn.com/)
+
+* [牛客网](https://www.nowcoder.com/)
+
+* [codewars](https://www.codewars.com/)
 
 
 ## Python
@@ -468,8 +486,6 @@
 
 * [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
 
-* [云栖大会](https://yunqi.aliyun.com/2018/hangzhou/index)
-
 
 
 ### 个人博客
@@ -554,6 +570,8 @@
 
 * [IMWeb 前端大会](https://2018.imweb.io/)
 
+* [云栖大会](https://yunqi.aliyun.com/2018/hangzhou/index)
+
 
 
 ## Github资源
@@ -572,9 +590,19 @@
 
 * [GitHub最全的前端资源汇总仓库 ](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
+* [从零开始构建 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)
+
 ### 其他
 
-[为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
+* [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
+
+* [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+* [Java Core Sprout：处于萌芽阶段的 Java 核心知识库](https://github.com/crossoverJie/JCSprout)
+
+* [一些经典且高质量的电子书分享](https://github.com/threerocks/studyFiles)
+
+* [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 
 
 
