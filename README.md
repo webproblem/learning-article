@@ -6,7 +6,7 @@
 
 目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
-**顺便推广下我的个人学习笔记和技术输出，在隔壁仓库中，地址： https://github.com/webproblem/Blog。**
+**顺便推广下我的个人学习笔记和技术输出，在隔壁仓库中，地址： https://github.com/webproblem/Blog**
 
 目录
 
