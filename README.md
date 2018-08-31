@@ -395,10 +395,6 @@
 
 * [Chrome 插件开发简要指南](https://www.w3cschool.cn/kesyi/kesyi-m5uo24rx.html)
 
-* Octotree 扩展插件
-
-* Infinity 扩展插件
-
 
 
 ## 其他
@@ -412,6 +408,7 @@
 * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
 
 * [Web前端导航](http://www.alloyteam.com/nav/)
+
 
 
 ## 博客/社区
@@ -514,19 +511,43 @@
 
 * [小剧客栈](https://www.bh-lay.com/)
 
-* [玉伯](https://github.com/lifesinger/blog)
-
 * [CSS 森林](http://www.cssforest.org/)
 
 * [汤姆大叔的博客](http://www.cnblogs.com/TomXu/)
 
 * [https://github.com/jawil/blog](https://github.com/jawil/blog)
 
+* [Hux Blog](https://huangxuan.me/)
+
 * [贤心](http://www.sentsin.com/)
+
+* [玉伯](https://github.com/lifesinger/blog)
+
+* [月影](https://github.com/akira-cn)
+
+* [豪情](https://github.com/jikeytang)
+
+* [尤雨溪](https://github.com/yyx990803)
+
+* [张云龙](https://github.com/fouber)
+
+* [张克军](https://github.com/kejun)
+
+* [黄轶](https://github.com/ustbhuangyi/)
+
+* [Aresn](https://github.com/icarusion)
+
+* [芋头君](https://github.com/xinyu198736)
+
+* [狼叔](https://github.com/i5ting)
+
+* [CSS魔法](https://github.com/cssmagic)
 
 ### 社区
 
 * [掘金](https://juejin.im/timeline)
+
+* [掘金翻译计划](https://github.com/xitu/gold-miner)
 
 * [segmentfault](https://segmentfault.com/)
 
