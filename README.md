@@ -334,6 +334,10 @@
 
 * [processon : 免费在线作图](https://www.processon.com/)
 
+* [声享 : 在线制作 PPT](https://ppt.baomitu.com/)
+
+* [VisuAlgo: 算法学习工具](https://visualgo.net/zh)
+
 ## 刷题网站
 
 * [LeetCode 中文版](https://leetcode-cn.com/)
@@ -438,6 +442,8 @@
 * [阿里巴巴国际UED团队](http://www.aliued.com/)
 
 * [阿里巴巴中文站UED](http://www.aliued.cn/)
+
+* [天猫前端](http://tmallfe.github.io/)
 
 * [腾讯 AlloyTeam 团队博客](http://alloyteam.com/)
 
@@ -567,6 +573,9 @@
 
 * [前端圈](https://fequan.com/)
 
+* [V2EX](https://www.v2ex.com/)
+
+* [前端头条](http://top.css88.com/)
 
 
 ## 业界技术交流会(一年一度的持续性的交流会)
@@ -612,6 +621,8 @@
 * [GitHub最全的前端资源汇总仓库 ](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
 * [从零开始构建 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)
+
+* [有关 git 的学习资料](https://github.com/xirong/my-git)
 
 ### 其他
 
