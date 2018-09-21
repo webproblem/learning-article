@@ -44,7 +44,7 @@
 
 * [MongoDB](#mongodb)
 
-* [小程序](#小程序)
+* [移动端](#移动端)
 
 * [可视化工具](#可视化工具)
 
@@ -174,6 +174,7 @@
 
 * [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 
+* [Awesome TypeScript](https://github.com/semlinker/awesome-typescript)
 
 
 ## webpack
@@ -270,6 +271,8 @@
 
 ## 移动端
 
+### 技术类
+
 * [Taro-多端统一开发框架](https://github.com/NervJS/taro)
 
 * [Weex](https://github.com/apache/incubator-weex/)
@@ -279,7 +282,7 @@
 * [React Native 中文网](https://reactnative.cn/)
 
 
-## 小程序
+### 微信小程序
 
 * [小程序文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 
@@ -296,6 +299,19 @@
 * [iview-weapp](https://github.com/TalkingData/iview-weapp)
 
 * [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+
+
+### 支付宝小程序
+
+* [官网](https://open.alipay.com/channel/miniIndex.htm)
+
+### 快应用
+
+* [官网](https://www.quickapp.cn/)
+
+### 百度小程序
+
+* [官网](https://smartprogram.baidu.com/mappconsole/main/login)
 
 
 
@@ -426,6 +442,8 @@
 * [百度FEX 团队](http://fex.baidu.com/)
 
 * [百度用户体验中心](http://uxc.baidu.com/)
+
+* [百度外卖前端团队](https://zhuanlan.zhihu.com/bdwmfe)
 
 * [京东凹凸实验室博客](https://aotu.io/)
 
@@ -577,6 +595,8 @@
 
 * [前端头条](http://top.css88.com/)
 
+* [伯乐在线](http://web.jobbole.com/)
+
 
 ## 业界技术交流会(一年一度的持续性的交流会)
 
@@ -623,6 +643,8 @@
 * [从零开始构建 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)
 
 * [有关 git 的学习资料](https://github.com/xirong/my-git)
+
+* [前端笔记系列](https://github.com/HongqingCao/Front-end-notes)
 
 ### 其他
 
