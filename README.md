@@ -6,6 +6,8 @@
 
 目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
+**觉得有帮助的话，请点击右上角 Watch ， Star ， Fork**
+
 **顺便推广下我的个人学习笔记和技术输出，在隔壁仓库中，地址： https://github.com/webproblem/Blog**
 
 目录
@@ -122,6 +124,12 @@
 
 * [Vue.js 逐行级别的源码分析](https://github.com/HcySunYang/vue-design)
 
+### 相关
+
+* [Vue.js 中文社区](https://www.vue-js.com/)
+
+* [Vue相关开源项目库汇总-总结得很详细](https://github.com/opendigg/awesome-github-vue)
+
 
 
 ## React
@@ -176,6 +184,9 @@
 
 * [Awesome TypeScript](https://github.com/semlinker/awesome-typescript)
 
+* [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+
+
 
 ## webpack
 
@@ -186,6 +197,15 @@
 * [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 
 * [入门Webpack，看这篇就够了](https://www.jianshu.com/p/42e11515c10f)
+
+* [webpack 优秀中文文章](https://github.com/webpack-china/awesome-webpack-cn)
+
+### 源码
+
+* [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
+
+* [Webpack揭秘——走向高阶前端的必经之路](https://juejin.im/post/5badd0c5e51d450e4437f07a)
+
 
 
 ## Parcel
@@ -255,6 +275,10 @@
 
 * [Nodejs学习笔记以及经验总结](https://github.com/chyingp/nodejs-learning-guide)
 
+* [《Node.js从入门到上线》](https://github.com/liuxing/node-blog)
+
+* [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
+
 
 
 ## MongoDB
@@ -268,6 +292,14 @@
 * [MongoDB 可视化工具 robo3t](https://robomongo.org/)
 
 * [MongoDB 可视化工具 adminMongo](https://github.com/mrvautin/adminMongo)
+
+
+
+## canvas
+
+* [canvas 教程](https://www.yuque.com/airing/canvas)
+
+
 
 ## 移动端
 
@@ -463,6 +495,8 @@
 
 * [天猫前端](http://tmallfe.github.io/)
 
+* [阿里达摩院](https://damo.alibaba.com/)
+
 * [腾讯 AlloyTeam 团队博客](http://alloyteam.com/)
 
 * [腾讯 IMWEB 团队](http://imweb.io/)
@@ -507,6 +541,7 @@
 
 * [JS 前端开发群月报](https://www.kancloud.cn/jsfront/month/82796)
 
+* [丁香园前端小分队](https://dxy-f2e.github.io/blog/)
 
 
 ### 个人博客
@@ -567,6 +602,10 @@
 
 * [CSS魔法](https://github.com/cssmagic)
 
+* [伍酱](http://www.wuyuying.com/blog/)
+
+
+
 ### 社区
 
 * [掘金](https://juejin.im/timeline)
@@ -618,9 +657,15 @@
 
 * [CSS 大会](https://css.w3ctech.com/)
 
+* [React 大会](https://react.w3ctech.com/)
+
 * [IMWeb 前端大会](https://2018.imweb.io/)
 
 * [云栖大会](https://yunqi.aliyun.com/2018/hangzhou/index)
+
+* [前端艺术家沙龙](https://artist.alibaba.com/)
+
+* [掘金开发者大会](https://conf.juejin.im/)
 
 
 
