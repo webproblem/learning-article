@@ -46,6 +46,8 @@
 
 * [MongoDB](#mongodb)
 
+* [Git](#git)
+
 * [移动端](#移动端)
 
 * [可视化工具](#可视化工具)
@@ -295,6 +297,16 @@
 
 
 
+## Git
+
+* [Git 练习](https://learngitbranching.js.org)
+
+* [Git Book](https://git-scm.com/book/zh/v2)
+
+* [有关 git 的学习资料](https://github.com/xirong/my-git)
+
+
+
 ## canvas
 
 * [canvas 教程](https://www.yuque.com/airing/canvas)
@@ -395,6 +407,11 @@
 
 * [VisuAlgo: 算法学习工具](https://visualgo.net/zh)
 
+* [FSCapture : 滚屏截图软件](https://faststone-capture.en.softonic.com)
+
+* [picpick : 一款全能的设计工具](https://picpick.app/zh/)
+
+
 ## 刷题网站
 
 * [LeetCode 中文版](https://leetcode-cn.com/)
@@ -469,6 +486,12 @@
 * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
 
 * [Web前端导航](http://www.alloyteam.com/nav/)
+
+
+
+## 产品
+
+* [人人都是产品经理](http://www.woshipm.com/)
 
 
 
@@ -613,6 +636,8 @@
 
 * [伍酱](http://www.wuyuying.com/blog/)
 
+* [http://delai.me/](http://delai.me/)
+
 
 
 ### 社区
@@ -645,6 +670,14 @@
 
 * [伯乐在线](http://web.jobbole.com/)
 
+* [小专栏](https://xiaozhuanlan.com/)
+
+* [Stack Overflow](https://stackoverflow.com/)
+
+* [大前端](http://www.daqianduan.com/)
+
+* [众成翻译](https://www.zcfy.cc/)
+
 
 ## 业界技术交流会(一年一度的持续性的交流会)
 
@@ -676,6 +709,10 @@
 
 * [掘金开发者大会](https://conf.juejin.im/)
 
+* [Vue.js 开发者大会](https://vueconf.cn/2018)
+
+* [中国 JS 开发者大会](https://jsconfchina.com/)
+
 
 
 ## Github资源
@@ -696,9 +733,9 @@
 
 * [从零开始构建 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)
 
-* [有关 git 的学习资料](https://github.com/xirong/my-git)
-
 * [前端笔记系列](https://github.com/HongqingCao/Front-end-notes)
+
+* [前端开发者指南 2018](https://github.com/xitu/front-end-handbook-2018)
 
 ### 其他
 
