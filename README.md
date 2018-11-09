@@ -6,9 +6,7 @@
 
 目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
 
-**觉得有帮助的话，请点击右上角 Watch ， Star ， Fork**
-
-**顺便推广下我的个人学习笔记和技术输出，在隔壁仓库中，地址： https://github.com/webproblem/Blog**
+**觉得有帮助的话，请点击右上角 Watch ， Star ， Fork，也可以 follow 我关注更多信息**
 
 目录
 
@@ -387,7 +385,9 @@
 
 * [Easy Mock : 可视化模拟数据工具](https://www.easy-mock.com/)
 
-* [docsify :  一个神奇的文档网站生成工具](https://docsify.js.org/#/)
+* [EasyAPI : 简单，好用的API服务平台](https://www.easyapi.com/)
+
+* [YAPI : 高效、易用、功能强大的API管理平台](http://yapi.demo.qunar.com/)
 
 * [showdoc : 文档编写工具](https://github.com/star7th/showdoc)
 
@@ -472,20 +472,6 @@
 * [Chrome开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 
 * [Chrome 插件开发简要指南](https://www.w3cschool.cn/kesyi/kesyi-m5uo24rx.html)
-
-
-
-## 其他
-
-* [MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web)
-
-* [Awesomes](https://www.awesomes.cn/)
-
-* [印记中文](https://www.docschina.org/)
-
-* [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
-
-* [Web前端导航](http://www.alloyteam.com/nav/)
 
 
 
@@ -638,6 +624,8 @@
 
 * [http://delai.me/](http://delai.me/)
 
+* [第一届前端艺术家沙龙1群每日资讯整理](http://fe.jskou.com/)
+
 
 
 ### 社区
@@ -678,6 +666,8 @@
 
 * [众成翻译](https://www.zcfy.cc/)
 
+* [WEB前端开发](http://www.css88.com/)
+
 
 ## 业界技术交流会(一年一度的持续性的交流会)
 
@@ -715,7 +705,7 @@
 
 
 
-## Github资源
+## 资源
 
 ### 前端
 
@@ -737,6 +727,24 @@
 
 * [前端开发者指南 2018](https://github.com/xitu/front-end-handbook-2018)
 
+* [30 seconds : 一些精炼的代码片段](https://github.com/30-seconds)
+
+* [33-js-concepts : 每个 JavaSript 开发人员应该知道的 33 个概念](https://github.com/leonardomso/33-js-concepts)
+
+* [每个 JavaSript 开发人员应该知道的 33 个概念-中文版](https://github.com/stephentian/33-js-concepts)
+
+* [MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web)
+
+* [Awesomes](https://www.awesomes.cn/)
+
+* [印记中文](https://www.docschina.org/)
+
+* [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+
+* [Web前端导航](http://www.alloyteam.com/nav/)
+
+* [移动端问题收集](https://github.com/RubyLouvre/mobileHack)
+
 ### 其他
 
 * [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
@@ -745,10 +753,15 @@
 
 * [Java Core Sprout：处于萌芽阶段的 Java 核心知识库](https://github.com/crossoverJie/JCSprout)
 
+* [【Java学习+面试指南】](https://github.com/Snailclimb/JavaGuide)
+
 * [一些经典且高质量的电子书分享](https://github.com/threerocks/studyFiles)
 
 * [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 
+* [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes)
+
+* [后台技术栈/全栈开发/架构师之路](https://github.com/frank-lam/2019_campus_apply)
 
 
 ![](./assets/web.jpg)
