@@ -4,7 +4,7 @@
 
 平时的学习资源都比较的凌乱，看到好的资源都是直接收藏在浏览器的收藏夹中，这样其实并不方便，整理在云笔记上，也不方便查看修改记录，索性就整理在 github 上并开源出来，希望帮助大家能够更快的找到需要的资源。建立该仓库的目的主要是整理收集学习资源，统一管理，方便随时查找。
 
-目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 [dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者提供宝贵的建议。
+目前整合的学习资源只是前端方向的，可能会存在漏缺比较好的资源，需要慢慢的完善它，欢迎在该 **[dicuss issue](https://github.com/webproblem/learning-article/issues/1) 上补充资源或者交流意见**。
 
 **觉得有帮助的话，请点击右上角 Watch ， Star ， Fork，也可以 follow 我关注更多信息**
 
@@ -279,6 +279,7 @@
 
 * [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
 
+* [nodejs基础教程](https://www.geekjc.com/ebook/detail/5b9f65ce0f510f6ae689bccd/1537172650925)
 
 
 ## MongoDB
@@ -667,6 +668,8 @@
 * [众成翻译](https://www.zcfy.cc/)
 
 * [WEB前端开发](http://www.css88.com/)
+
+* [前端网](https://www.qdfuns.com/)
 
 
 ## 业界技术交流会(一年一度的持续性的交流会)
