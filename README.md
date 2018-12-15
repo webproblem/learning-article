@@ -235,6 +235,12 @@
 
 
 
+## HTTP
+
+* [HTTP/3详解](https://http3-explained.haxx.se/zh/)
+
+
+
 ## http 请求库
 
 * [Axios 中文说明](https://www.kancloud.cn/yunye/axios/234845)
